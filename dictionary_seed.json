@@ -1,0 +1,808 @@
+[
+  {
+    "chinese": "喝",
+    "pinyin": "hē",
+    "korean": "마시다",
+    "meanings": {
+      "ko": "마시다",
+      "en": "to drink",
+      "ja": "飲む",
+      "es": "beber",
+      "zh-Hans": "喝；饮用",
+      "zh-Hant": "喝；飲用"
+    }
+  },
+  {
+    "chinese": "真棒",
+    "pinyin": "zhēn bàng",
+    "korean": "최고야",
+    "meanings": {
+      "ko": "최고야",
+      "en": "great; excellent",
+      "ja": "すばらしい",
+      "es": "excelente",
+      "zh-Hans": "真好；很棒",
+      "zh-Hant": "真好；很棒"
+    }
+  },
+  {
+    "chinese": "大家",
+    "pinyin": "dàjiā",
+    "korean": "여러분",
+    "meanings": {
+      "ko": "여러분",
+      "en": "everyone",
+      "ja": "みなさん",
+      "es": "todos",
+      "zh-Hans": "大家；所有人",
+      "zh-Hant": "大家；所有人"
+    }
+  },
+  {
+    "chinese": "吃",
+    "pinyin": "chī",
+    "korean": "먹다",
+    "meanings": {
+      "ko": "먹다",
+      "en": "to eat",
+      "ja": "食べる",
+      "es": "comer",
+      "zh-Hans": "吃；进食",
+      "zh-Hant": "吃；進食"
+    }
+  },
+  {
+    "chinese": "你好",
+    "pinyin": "nǐ hǎo",
+    "korean": "안녕하세요",
+    "meanings": {
+      "ko": "안녕하세요",
+      "en": "hello",
+      "ja": "こんにちは",
+      "es": "hola",
+      "zh-Hans": "你好；问候语",
+      "zh-Hant": "你好；問候語"
+    }
+  },
+  {
+    "chinese": "什么意思",
+    "pinyin": "shénme yìsi",
+    "korean": "무슨 의미인가요?",
+    "meanings": {
+      "ko": "무슨 의미인가요?",
+      "en": "what does it mean?",
+      "ja": "どういう意味ですか",
+      "es": "¿qué significa?",
+      "zh-Hans": "是什么意思？",
+      "zh-Hant": "是什麼意思？"
+    }
+  },
+  {
+    "chinese": "老师",
+    "pinyin": "lǎoshī",
+    "korean": "선생님",
+    "meanings": {
+      "ko": "선생님",
+      "en": "teacher",
+      "ja": "先生",
+      "es": "profesor; profesora",
+      "zh-Hans": "老师；教师",
+      "zh-Hant": "老師；教師"
+    }
+  },
+  {
+    "chinese": "听",
+    "pinyin": "tīng",
+    "korean": "듣다",
+    "meanings": {
+      "ko": "듣다",
+      "en": "to listen",
+      "ja": "聞く",
+      "es": "escuchar",
+      "zh-Hans": "听；聆听",
+      "zh-Hant": "聽；聆聽"
+    }
+  },
+  {
+    "chinese": "明天见",
+    "pinyin": "míngtiān jiàn",
+    "korean": "내일 보자",
+    "meanings": {
+      "ko": "내일 보자",
+      "en": "see you tomorrow",
+      "ja": "また明日",
+      "es": "hasta mañana",
+      "zh-Hans": "明天见；明天再见",
+      "zh-Hant": "明天見；明天再見"
+    }
+  },
+  {
+    "chinese": "学生",
+    "pinyin": "xuésheng",
+    "korean": "학생",
+    "meanings": {
+      "ko": "학생",
+      "en": "student",
+      "ja": "学生",
+      "es": "estudiante",
+      "zh-Hans": "学生",
+      "zh-Hant": "學生"
+    }
+  },
+  {
+    "chinese": "说",
+    "pinyin": "shuō",
+    "korean": "말하다",
+    "meanings": {
+      "ko": "말하다",
+      "en": "to speak; to say",
+      "ja": "話す；言う",
+      "es": "hablar; decir",
+      "zh-Hans": "说；讲话",
+      "zh-Hant": "說；講話"
+    }
+  },
+  {
+    "chinese": "再见",
+    "pinyin": "zàijiàn",
+    "korean": "안녕히 가세요",
+    "meanings": {
+      "ko": "안녕히 가세요",
+      "en": "goodbye",
+      "ja": "さようなら",
+      "es": "adiós",
+      "zh-Hans": "再见；告别语",
+      "zh-Hant": "再見；告別語"
+    }
+  },
+  {
+    "chinese": "朋友",
+    "pinyin": "péngyou",
+    "korean": "친구",
+    "meanings": {
+      "ko": "친구",
+      "en": "friend",
+      "ja": "友だち",
+      "es": "amigo; amiga",
+      "zh-Hans": "朋友",
+      "zh-Hant": "朋友"
+    }
+  },
+  {
+    "chinese": "长",
+    "pinyin": "cháng",
+    "korean": "길다",
+    "meanings": {
+      "ko": "길다",
+      "en": "long",
+      "ja": "長い",
+      "es": "largo",
+      "zh-Hans": "长；长度大",
+      "zh-Hant": "長；長度大"
+    }
+  },
+  {
+    "chinese": "不用谢",
+    "pinyin": "búyòng xiè",
+    "korean": "천만에요",
+    "meanings": {
+      "ko": "천만에요",
+      "en": "you're welcome",
+      "ja": "どういたしまして",
+      "es": "de nada",
+      "zh-Hans": "不用谢；不客气",
+      "zh-Hant": "不用謝；不客氣"
+    }
+  },
+  {
+    "chinese": "爷爷",
+    "pinyin": "yéye",
+    "korean": "할아버지",
+    "meanings": {
+      "ko": "할아버지",
+      "en": "grandfather",
+      "ja": "祖父；おじいさん",
+      "es": "abuelo",
+      "zh-Hans": "爷爷；祖父",
+      "zh-Hant": "爺爺；祖父"
+    }
+  },
+  {
+    "chinese": "红",
+    "pinyin": "hóng",
+    "korean": "붉다",
+    "meanings": {
+      "ko": "붉다",
+      "en": "red",
+      "ja": "赤い",
+      "es": "rojo",
+      "zh-Hans": "红色的",
+      "zh-Hant": "紅色的"
+    }
+  },
+  {
+    "chinese": "谢谢",
+    "pinyin": "xièxie",
+    "korean": "감사합니다",
+    "meanings": {
+      "ko": "감사합니다",
+      "en": "thank you",
+      "ja": "ありがとう",
+      "es": "gracias",
+      "zh-Hans": "谢谢；感谢",
+      "zh-Hant": "謝謝；感謝"
+    }
+  },
+  {
+    "chinese": "奶奶",
+    "pinyin": "nǎinai",
+    "korean": "할머니",
+    "meanings": {
+      "ko": "할머니",
+      "en": "grandmother",
+      "ja": "祖母；おばあさん",
+      "es": "abuela",
+      "zh-Hans": "奶奶；祖母",
+      "zh-Hant": "奶奶；祖母"
+    }
+  },
+  {
+    "chinese": "洗",
+    "pinyin": "xǐ",
+    "korean": "씻다",
+    "meanings": {
+      "ko": "씻다",
+      "en": "to wash",
+      "ja": "洗う",
+      "es": "lavar",
+      "zh-Hans": "洗；清洗",
+      "zh-Hant": "洗；清洗"
+    }
+  },
+  {
+    "chinese": "没关系",
+    "pinyin": "méi guānxi",
+    "korean": "괜찮습니다",
+    "meanings": {
+      "ko": "괜찮습니다",
+      "en": "it's okay",
+      "ja": "大丈夫です",
+      "es": "no pasa nada",
+      "zh-Hans": "没关系；不要紧",
+      "zh-Hant": "沒關係；不要緊"
+    }
+  },
+  {
+    "chinese": "爸爸",
+    "pinyin": "bàba",
+    "korean": "아빠",
+    "meanings": {
+      "ko": "아빠",
+      "en": "dad; father",
+      "ja": "お父さん",
+      "es": "papá; padre",
+      "zh-Hans": "爸爸；父亲",
+      "zh-Hant": "爸爸；父親"
+    }
+  },
+  {
+    "chinese": "冷",
+    "pinyin": "lěng",
+    "korean": "춥다",
+    "meanings": {
+      "ko": "춥다",
+      "en": "cold",
+      "ja": "寒い；冷たい",
+      "es": "frío",
+      "zh-Hans": "冷；温度低",
+      "zh-Hant": "冷；溫度低"
+    }
+  },
+  {
+    "chinese": "没事儿",
+    "pinyin": "méi shìr",
+    "korean": "괜찮아",
+    "meanings": {
+      "ko": "괜찮아",
+      "en": "it's fine",
+      "ja": "大丈夫",
+      "es": "está bien",
+      "zh-Hans": "没事儿；没关系",
+      "zh-Hant": "沒事兒；沒關係"
+    }
+  },
+  {
+    "chinese": "妈妈",
+    "pinyin": "māma",
+    "korean": "엄마",
+    "meanings": {
+      "ko": "엄마",
+      "en": "mom; mother",
+      "ja": "お母さん",
+      "es": "mamá; madre",
+      "zh-Hans": "妈妈；母亲",
+      "zh-Hant": "媽媽；母親"
+    }
+  },
+  {
+    "chinese": "叫",
+    "pinyin": "jiào",
+    "korean": "부르다",
+    "meanings": {
+      "ko": "부르다",
+      "en": "to be called; to call",
+      "ja": "呼ぶ；〜という",
+      "es": "llamarse; llamar",
+      "zh-Hans": "叫；称呼",
+      "zh-Hant": "叫；稱呼"
+    }
+  },
+  {
+    "chinese": "对不起",
+    "pinyin": "duìbuqǐ",
+    "korean": "죄송합니다",
+    "meanings": {
+      "ko": "죄송합니다",
+      "en": "sorry",
+      "ja": "ごめんなさい",
+      "es": "lo siento",
+      "zh-Hans": "对不起；道歉语",
+      "zh-Hant": "對不起；道歉語"
+    }
+  },
+  {
+    "chinese": "哥哥",
+    "pinyin": "gēge",
+    "korean": "오빠",
+    "meanings": {
+      "ko": "오빠",
+      "en": "older brother",
+      "ja": "兄；お兄さん",
+      "es": "hermano mayor",
+      "zh-Hans": "哥哥；兄长",
+      "zh-Hant": "哥哥；兄長"
+    }
+  },
+  {
+    "chinese": "看",
+    "pinyin": "kàn",
+    "korean": "보다",
+    "meanings": {
+      "ko": "보다",
+      "en": "to look; to watch",
+      "ja": "見る",
+      "es": "ver; mirar",
+      "zh-Hans": "看；观看",
+      "zh-Hant": "看；觀看"
+    }
+  },
+  {
+    "chinese": "不好意思",
+    "pinyin": "bù hǎoyìsi",
+    "korean": "미안합니다",
+    "meanings": {
+      "ko": "미안합니다",
+      "en": "excuse me; sorry",
+      "ja": "すみません",
+      "es": "disculpa; perdón",
+      "zh-Hans": "不好意思；抱歉",
+      "zh-Hant": "不好意思；抱歉"
+    }
+  },
+  {
+    "chinese": "姐姐",
+    "pinyin": "jiějie",
+    "korean": "언니",
+    "meanings": {
+      "ko": "언니",
+      "en": "older sister",
+      "ja": "姉；お姉さん",
+      "es": "hermana mayor",
+      "zh-Hans": "姐姐；姊姊",
+      "zh-Hant": "姐姐；姊姊"
+    }
+  },
+  {
+    "chinese": "是",
+    "pinyin": "shì",
+    "korean": "이다",
+    "meanings": {
+      "ko": "이다",
+      "en": "to be; yes",
+      "ja": "〜である；はい",
+      "es": "ser; sí",
+      "zh-Hans": "是；表示肯定",
+      "zh-Hant": "是；表示肯定"
+    }
+  },
+  {
+    "chinese": "读一读",
+    "pinyin": "dú yi dú",
+    "korean": "읽어 보세요",
+    "meanings": {
+      "ko": "읽어 보세요",
+      "en": "read it aloud",
+      "ja": "読んでみましょう",
+      "es": "lee en voz alta",
+      "zh-Hans": "读一读；读一下",
+      "zh-Hant": "讀一讀；讀一下"
+    }
+  },
+  {
+    "chinese": "妹妹",
+    "pinyin": "mèimei",
+    "korean": "여동생",
+    "meanings": {
+      "ko": "여동생",
+      "en": "younger sister",
+      "ja": "妹",
+      "es": "hermana menor",
+      "zh-Hans": "妹妹",
+      "zh-Hant": "妹妹"
+    }
+  },
+  {
+    "chinese": "弟弟",
+    "pinyin": "dìdi",
+    "korean": "남동생",
+    "meanings": {
+      "ko": "남동생",
+      "en": "younger brother",
+      "ja": "弟",
+      "es": "hermano menor",
+      "zh-Hans": "弟弟",
+      "zh-Hant": "弟弟"
+    }
+  },
+  {
+    "chinese": "我",
+    "pinyin": "wǒ",
+    "korean": "나",
+    "meanings": {
+      "ko": "나",
+      "en": "I; me",
+      "ja": "私",
+      "es": "yo",
+      "zh-Hans": "我；第一人称",
+      "zh-Hant": "我；第一人稱"
+    }
+  },
+  {
+    "chinese": "你",
+    "pinyin": "nǐ",
+    "korean": "너",
+    "meanings": {
+      "ko": "너",
+      "en": "you",
+      "ja": "あなた",
+      "es": "tú; usted",
+      "zh-Hans": "你；第二人称",
+      "zh-Hant": "你；第二人稱"
+    }
+  },
+  {
+    "chinese": "他",
+    "pinyin": "tā",
+    "korean": "그",
+    "meanings": {
+      "ko": "그",
+      "en": "he; him",
+      "ja": "彼",
+      "es": "él",
+      "zh-Hans": "他；男性第三人称",
+      "zh-Hant": "他；男性第三人稱"
+    }
+  },
+  {
+    "chinese": "她",
+    "pinyin": "tā",
+    "korean": "그녀",
+    "meanings": {
+      "ko": "그녀",
+      "en": "she; her",
+      "ja": "彼女",
+      "es": "ella",
+      "zh-Hans": "她；女性第三人称",
+      "zh-Hant": "她；女性第三人稱"
+    }
+  },
+  {
+    "chinese": "我们",
+    "pinyin": "wǒmen",
+    "korean": "우리",
+    "meanings": {
+      "ko": "우리",
+      "en": "we; us",
+      "ja": "私たち",
+      "es": "nosotros; nosotras",
+      "zh-Hans": "我们",
+      "zh-Hant": "我們"
+    }
+  },
+  {
+    "chinese": "你们",
+    "pinyin": "nǐmen",
+    "korean": "너희들",
+    "meanings": {
+      "ko": "너희들",
+      "en": "you all",
+      "ja": "あなたたち",
+      "es": "ustedes",
+      "zh-Hans": "你们",
+      "zh-Hant": "你們"
+    }
+  },
+  {
+    "chinese": "他们",
+    "pinyin": "tāmen",
+    "korean": "그들",
+    "meanings": {
+      "ko": "그들",
+      "en": "they; them",
+      "ja": "彼ら",
+      "es": "ellos",
+      "zh-Hans": "他们",
+      "zh-Hant": "他們"
+    }
+  },
+  {
+    "chinese": "这",
+    "pinyin": "zhè",
+    "korean": "이것",
+    "meanings": {
+      "ko": "이것",
+      "en": "this",
+      "ja": "これ",
+      "es": "esto",
+      "zh-Hans": "这；这个",
+      "zh-Hant": "這；這個"
+    }
+  },
+  {
+    "chinese": "那",
+    "pinyin": "nà",
+    "korean": "저것",
+    "meanings": {
+      "ko": "저것",
+      "en": "that",
+      "ja": "それ；あれ",
+      "es": "eso; aquello",
+      "zh-Hans": "那；那个",
+      "zh-Hant": "那；那個"
+    }
+  },
+  {
+    "chinese": "什么",
+    "pinyin": "shénme",
+    "korean": "무엇",
+    "meanings": {
+      "ko": "무엇",
+      "en": "what",
+      "ja": "何",
+      "es": "qué",
+      "zh-Hans": "什么",
+      "zh-Hant": "什麼"
+    }
+  },
+  {
+    "chinese": "喜欢",
+    "pinyin": "xǐhuan",
+    "korean": "좋아하다",
+    "meanings": {
+      "ko": "좋아하다",
+      "en": "to like",
+      "ja": "好き；好む",
+      "es": "gustar",
+      "zh-Hans": "喜欢",
+      "zh-Hant": "喜歡"
+    }
+  },
+  {
+    "chinese": "学习",
+    "pinyin": "xuéxí",
+    "korean": "공부하다",
+    "meanings": {
+      "ko": "공부하다",
+      "en": "to study; learning",
+      "ja": "勉強する；学習",
+      "es": "estudiar; aprendizaje",
+      "zh-Hans": "学习",
+      "zh-Hant": "學習"
+    }
+  },
+  {
+    "chinese": "中文",
+    "pinyin": "Zhōngwén",
+    "korean": "중국어",
+    "meanings": {
+      "ko": "중국어",
+      "en": "Chinese language",
+      "ja": "中国語",
+      "es": "idioma chino",
+      "zh-Hans": "中文；中国语言",
+      "zh-Hant": "中文；中國語言"
+    }
+  },
+  {
+    "chinese": "汉语",
+    "pinyin": "Hànyǔ",
+    "korean": "중국어",
+    "meanings": {
+      "ko": "중국어",
+      "en": "Chinese language",
+      "ja": "中国語",
+      "es": "idioma chino",
+      "zh-Hans": "汉语；中文",
+      "zh-Hant": "漢語；中文"
+    }
+  },
+  {
+    "chinese": "学校",
+    "pinyin": "xuéxiào",
+    "korean": "학교",
+    "meanings": {
+      "ko": "학교",
+      "en": "school",
+      "ja": "学校",
+      "es": "escuela",
+      "zh-Hans": "学校",
+      "zh-Hant": "學校"
+    }
+  },
+  {
+    "chinese": "今天",
+    "pinyin": "jīntiān",
+    "korean": "오늘",
+    "meanings": {
+      "ko": "오늘",
+      "en": "today",
+      "ja": "今日",
+      "es": "hoy",
+      "zh-Hans": "今天",
+      "zh-Hant": "今天"
+    }
+  },
+  {
+    "chinese": "昨天",
+    "pinyin": "zuótiān",
+    "korean": "어제",
+    "meanings": {
+      "ko": "어제",
+      "en": "yesterday",
+      "ja": "昨日",
+      "es": "ayer",
+      "zh-Hans": "昨天",
+      "zh-Hant": "昨天"
+    }
+  },
+  {
+    "chinese": "早上",
+    "pinyin": "zǎoshang",
+    "korean": "아침",
+    "meanings": {
+      "ko": "아침",
+      "en": "morning",
+      "ja": "朝",
+      "es": "mañana",
+      "zh-Hans": "早上；早晨",
+      "zh-Hant": "早上；早晨"
+    }
+  },
+  {
+    "chinese": "上午",
+    "pinyin": "shàngwǔ",
+    "korean": "오전",
+    "meanings": {
+      "ko": "오전",
+      "en": "morning; before noon",
+      "ja": "午前",
+      "es": "mañana; antes del mediodía",
+      "zh-Hans": "上午",
+      "zh-Hant": "上午"
+    }
+  },
+  {
+    "chinese": "中午",
+    "pinyin": "zhōngwǔ",
+    "korean": "정오",
+    "meanings": {
+      "ko": "정오",
+      "en": "noon",
+      "ja": "正午",
+      "es": "mediodía",
+      "zh-Hans": "中午",
+      "zh-Hant": "中午"
+    }
+  },
+  {
+    "chinese": "下午",
+    "pinyin": "xiàwǔ",
+    "korean": "오후",
+    "meanings": {
+      "ko": "오후",
+      "en": "afternoon",
+      "ja": "午後",
+      "es": "tarde",
+      "zh-Hans": "下午",
+      "zh-Hant": "下午"
+    }
+  },
+  {
+    "chinese": "晚上",
+    "pinyin": "wǎnshang",
+    "korean": "저녁",
+    "meanings": {
+      "ko": "저녁",
+      "en": "evening; night",
+      "ja": "夜；晩",
+      "es": "noche",
+      "zh-Hans": "晚上",
+      "zh-Hant": "晚上"
+    }
+  },
+  {
+    "chinese": "明天",
+    "pinyin": "míngtiān",
+    "korean": "내일",
+    "meanings": {
+      "ko": "내일",
+      "en": "tomorrow",
+      "ja": "明日",
+      "es": "mañana",
+      "zh-Hans": "明天",
+      "zh-Hant": "明天"
+    }
+  },
+  {
+    "chinese": "韩国",
+    "pinyin": "Hánguó",
+    "korean": "한국",
+    "meanings": {
+      "ko": "한국",
+      "en": "South Korea",
+      "ja": "韓国",
+      "es": "Corea del Sur",
+      "zh-Hans": "韩国",
+      "zh-Hant": "韓國"
+    }
+  },
+  {
+    "chinese": "中国",
+    "pinyin": "Zhōngguó",
+    "korean": "중국",
+    "meanings": {
+      "ko": "중국",
+      "en": "China",
+      "ja": "中国",
+      "es": "China",
+      "zh-Hans": "中国",
+      "zh-Hant": "中國"
+    }
+  },
+  {
+    "chinese": "美国",
+    "pinyin": "Měiguó",
+    "korean": "미국",
+    "meanings": {
+      "ko": "미국",
+      "en": "United States",
+      "ja": "アメリカ",
+      "es": "Estados Unidos",
+      "zh-Hans": "美国",
+      "zh-Hant": "美國"
+    }
+  },
+  {
+    "chinese": "日本",
+    "pinyin": "Rìběn",
+    "korean": "일본",
+    "meanings": {
+      "ko": "일본",
+      "en": "Japan",
+      "ja": "日本",
+      "es": "Japón",
+      "zh-Hans": "日本",
+      "zh-Hant": "日本"
+    }
+  }
+]
