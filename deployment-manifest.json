@@ -1,9 +1,9 @@
 {
-  "fileCount": 61,
-  "textFilesChecked": 26,
-  "totalBytes": 4074355,
+  "fileCount": 62,
+  "textFilesChecked": 27,
+  "totalBytes": 4074388,
   "publicOrigin": "https://misebear.github.io/picchina-web",
   "basePath": "/picchina-web",
-  "sourceCommit": "368a166d733c3436183045c3a6ca2c8c0f02d494",
-  "generatedAt": "2026-08-11T08:53:11.056536+00:00"
+  "sourceCommit": "8ccf633fa2b73853e3eca245d5fbdea7fa9ce23f",
+  "generatedAt": "2026-08-11T08:55:10.969721+00:00"
 }
