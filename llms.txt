@@ -1,20 +1,19 @@
 # 찍으면 중국어
 
-> 중고등 중국어 교과서와 학습지 사진을 OCR로 읽고, 병음·한국어 뜻·발음 카드·퀴즈·오답 복습으로 정리하는 Android 학습 앱과 웹 체험입니다.
+교재 사진에서 중국어를 가져와 직접 확인·수정한 카드로 복습하는 Android 앱. 웹은 텍스트와 자기평가 체험이다. 뜻 자동 채움은 62개 내장 사전과 일치하는 항목에 한정된다.
 
-## 주요 페이지
-
-- 웹 체험: https://misebear.github.io/picchina-web/
-- 중국어 학습지 OCR 사용법: https://misebear.github.io/picchina-web/worksheet-ocr
-- 학교 중국어 복습법: https://misebear.github.io/picchina-web/school-chinese-review
-- 번역기와 학습 앱의 차이: https://misebear.github.io/picchina-web/compare-translation-vs-study
-- 중국어 학습 용어: https://misebear.github.io/picchina-web/chinese-study-glossary
-- 교사용 자료: https://misebear.github.io/picchina-web/teacher
-- 지원: https://misebear.github.io/picchina-web/support
-
-## 사실 확인 기준
-
-- OCR 결과와 자동 뜻은 초안이며 사용자가 원본 학습지와 대조해야 합니다.
-- 학습지 이미지와 학습 기록은 기본적으로 Android 기기 안에서 처리하고 저장합니다.
-- 웹 체험은 서버 업로드 없이 샘플과 사용자가 직접 입력한 텍스트를 브라우저에서 처리합니다.
-- Android 앱 설치 주소: https://play.google.com/store/apps/details?id=com.bodeum.chinesestudyhelper
+- https://misebear.github.io/picchina-web/about/
+- https://misebear.github.io/picchina-web/chinese-study-glossary/
+- https://misebear.github.io/picchina-web/compare-translation-vs-study/
+- https://misebear.github.io/picchina-web/curriculum/
+- https://misebear.github.io/picchina-web/demo/
+- https://misebear.github.io/picchina-web/guide/
+- https://misebear.github.io/picchina-web/
+- https://misebear.github.io/picchina-web/privacy/
+- https://misebear.github.io/picchina-web/pronunciation/
+- https://misebear.github.io/picchina-web/school-chinese-review/
+- https://misebear.github.io/picchina-web/support/
+- https://misebear.github.io/picchina-web/teacher/
+- https://misebear.github.io/picchina-web/terms/
+- https://misebear.github.io/picchina-web/worksheet-ocr/
+- https://misebear.github.io/picchina-web/worksheets/
