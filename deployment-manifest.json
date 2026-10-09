@@ -1,9 +1,442 @@
 {
-  "fileCount": 62,
-  "textFilesChecked": 27,
-  "totalBytes": 4074388,
-  "publicOrigin": "https://misebear.github.io/picchina-web",
-  "basePath": "/picchina-web",
-  "sourceCommit": "8ccf633fa2b73853e3eca245d5fbdea7fa9ce23f",
-  "generatedAt": "2026-08-11T08:55:10.969721+00:00"
+  "publicUrl": "https://misebear.github.io/picchina-web/",
+  "base": "/picchina-web/",
+  "release": "0.1.1",
+  "selected_media": "Chirp3 lively 20261009",
+  "sourceCommit": "9b929d73a0a1700556a017264200a694be25cfdc",
+  "sourceDirty": true,
+  "webSourceSha256": "6f72fef32d15f18fa8b8d8d5806578f64c42c9a3c7485e3ca174ec946a216c98",
+  "sourceDescription": "Verified local Vite sources with preserved user changes; exact output files recorded by SHA",
+  "files": [
+    {
+      "path": "ads.txt",
+      "sha256": "083b7ca1519c1c12b8f61f267f3f850bd1833fec3984a55f3eb7693269f2b59f",
+      "bytes": 59
+    },
+    {
+      "path": "app-ads.txt",
+      "sha256": "083b7ca1519c1c12b8f61f267f3f850bd1833fec3984a55f3eb7693269f2b59f",
+      "bytes": 59
+    },
+    {
+      "path": "content.css",
+      "sha256": "4c2f8e7975fadad27b02fc1ffac087947a23658ea43ab564603be5ef3b8e6fb6",
+      "bytes": 5857
+    },
+    {
+      "path": "dictionary_seed.json",
+      "sha256": "db21600da06f3692edf21242d6864b6165d8e67e2e730dcce1273fcc0a9eeabe",
+      "bytes": 18048
+    },
+    {
+      "path": "f50b43b91e2f4dfdb80f65179cf102bd.txt",
+      "sha256": "d1ed02b32f3ea2469608aa1e21d1ada53c5e8aa99ae5fb8987032a63ac0cdbab",
+      "bytes": 33
+    },
+    {
+      "path": "growth.js",
+      "sha256": "e403c83b42375b79411db212af86b630a1fcb184fbe13c73178414a323b70f4d",
+      "bytes": 298
+    },
+    {
+      "path": "index.html",
+      "sha256": "b2b4e44501c3a7a00d9374e1f16b8e2704bf00120993b3b4cae28570f26c9c3a",
+      "bytes": 15192
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "282ba975dc477dd4a58c5c922948d17f8a2f3d73437b2b5188226b00ea05276d",
+      "bytes": 1072
+    },
+    {
+      "path": "privacy.html",
+      "sha256": "f86fe1159666a515351cfc31681615d43340e281338895c905767750297e3fdf",
+      "bytes": 668
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "0222a1821913e75530edbe9a385cdb8dc154c28a8076abca53fc385864bae174",
+      "bytes": 84
+    },
+    {
+      "path": "site-config.json",
+      "sha256": "e06a1498d521ac62ae4983d84ef3eeb887761878d3498bcb92fc86c8b83d4af5",
+      "bytes": 149
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "d762bef42e782ed9e502e0a0e96387895dd7f25ae85c7322812eee2e65c61ff4",
+      "bytes": 1208
+    },
+    {
+      "path": "about/index.html",
+      "sha256": "2ceee34b117fdc35a280062903df86867910201826e2f8ece201e8d98adb3ec5",
+      "bytes": 4449
+    },
+    {
+      "path": "assets/demo-EXJBxnQV.css",
+      "sha256": "f43c5d088082e2109db2e63576b3990c2b1cd9683ce0c0b9536eaa8a372f0cf7",
+      "bytes": 3069
+    },
+    {
+      "path": "assets/demo-kTYUP0tA.js",
+      "sha256": "2520d0f6a58ae9ffd2727395c6b5ed02e2bfd398876114ec254955c39257d650",
+      "bytes": 13801
+    },
+    {
+      "path": "assets/documents-D98ib81_.js",
+      "sha256": "e5d3e116b61243e43ee4df7936d880d65652f9445570b00a3bf65112391366bb",
+      "bytes": 669
+    },
+    {
+      "path": "assets/home-CwT33LfM.js",
+      "sha256": "c8c01f69feb4cec5c9556dc39cb77f5c04d4be08f2fbd9bca026dcf513dc0a79",
+      "bytes": 3710
+    },
+    {
+      "path": "assets/home-sj5zKir3.css",
+      "sha256": "2ac058096afa638b7dadb58bccb65846fa786d2a84611c7d38f65f3a135c2583",
+      "bytes": 5007
+    },
+    {
+      "path": "assets/site-BBa_20__.js",
+      "sha256": "a2dc280fc7f38c9dd1845cb58e7d3db1e9ebf811b1cffe7940eca5045ce64b13",
+      "bytes": 984
+    },
+    {
+      "path": "assets/tokens-DiTYts80.js",
+      "sha256": "d2a32840421496e872ade591618d2fa5c33797605d1aec04301717e5a90757d0",
+      "bytes": 711
+    },
+    {
+      "path": "assets/tokens-DvCdxZnb.css",
+      "sha256": "793ff9bce5b90be05ed903050495337995ac2dacdf0270f1db75cd268831b28a",
+      "bytes": 8624
+    },
+    {
+      "path": "assets/tracking-CAJbXuUI.js",
+      "sha256": "cb47a6a5e51f76d69994074a58cbb962a57134f0c3ccdbf6454d926428d3a0ca",
+      "bytes": 1158
+    },
+    {
+      "path": "brand/picchina-icon-512.png",
+      "sha256": "8063ab527590e24ffe55b99d61989f6a2fb1a314b02b0809b3c5332d1a08a0fd",
+      "bytes": 295692
+    },
+    {
+      "path": "brand/picchina-mark-96.png",
+      "sha256": "dfed7e720d4672a1696dd1df8af2720b3a250f97773adbc1aeb54cc5912582dd",
+      "bytes": 18897
+    },
+    {
+      "path": "brand/picchina-mark-96.webp",
+      "sha256": "58091cd5d71d8d693a6d2aee622db710d1d19059dba6a9a53a29c48d7cbb0fac",
+      "bytes": 2514
+    },
+    {
+      "path": "brand/picchina-ocr-screen.png",
+      "sha256": "49c71b6d96b776d5985c84cb3fe7edea2d2fc3ef14f0dd2999dccdf2687e8290",
+      "bytes": 239391
+    },
+    {
+      "path": "brand/picchina-og-20261007.png",
+      "sha256": "f05dbefe1c80267ae663eaf61cedfa822ef5f0c91cb52c79271c61cddf3eabc8",
+      "bytes": 50180
+    },
+    {
+      "path": "brand/picchina-og.png",
+      "sha256": "4e0471fc7aa7701eaabf1f5fc575c37e2c33688381f4ff77d2e55ffa090117c7",
+      "bytes": 145197
+    },
+    {
+      "path": "brand/picchina-study-screen.png",
+      "sha256": "1f2e612f5c7e6ca692c83e9f090950b519f0e94d3a8c3b5627f8f4899ecfa6d3",
+      "bytes": 193408
+    },
+    {
+      "path": "brand/play-qr.svg",
+      "sha256": "ed07e62a658d20b544ff236c2e783915d83ddcfb45e1086ec30337b787d4a60c",
+      "bytes": 61640
+    },
+    {
+      "path": "chinese-study-glossary/index.html",
+      "sha256": "b1a043718fed30366d82f441f6ccdc2092db53f58b2bbb3266066e569f59d517",
+      "bytes": 5202
+    },
+    {
+      "path": "compare-translation-vs-study/index.html",
+      "sha256": "c7151a62f065e7c7085123f38fe23c663a2f344547c77b87b75dfb27992338af",
+      "bytes": 5594
+    },
+    {
+      "path": "curriculum/index.html",
+      "sha256": "fe774c8588ffcddd4cd3d30a3b14f85377e9a1ea5ae469c6065ff98d688c38cc",
+      "bytes": 4586
+    },
+    {
+      "path": "demo/index.html",
+      "sha256": "65b25c23d3bf2d4696952adfa9b5efd79df51b3b7664448024618cca2f8fd186",
+      "bytes": 2603
+    },
+    {
+      "path": "downloads/picchina-teacher-pilot-pack.pdf",
+      "sha256": "0910b8a0a1989c3cc47e9b5a6180f6dcb76653ef019231f34c7f3881d4c3c119",
+      "bytes": 1285932
+    },
+    {
+      "path": "guide/index.html",
+      "sha256": "3eb858d76497ea1366196ecb863857652b6d11e9ddf8c9413bf456ff966c7ee4",
+      "bytes": 5008
+    },
+    {
+      "path": "media/picchina-home-loop-8s-20261009.mp4",
+      "sha256": "d3aacc491733f32ebc5f87e566e349df6b5ab28b06ac592e6d284570c66421c9",
+      "bytes": 246845
+    },
+    {
+      "path": "media/picchina-home-poster-20261009.webp",
+      "sha256": "5606d70657b56de381ed883c06ccb195a802e70223d2db9b9dd8dabddcd29999",
+      "bytes": 17522
+    },
+    {
+      "path": "media/picchina-play-30s-20261009.ko.vtt",
+      "sha256": "fa343f5c1a79695d2a4f90f34b12906939de0787c7570a02aeb0276cc737425e",
+      "bytes": 426
+    },
+    {
+      "path": "media/picchina-play-30s-20261009.mp4",
+      "sha256": "f5c83c6343b162c52e297425ae2094dfa98b9f434d9343212c088bcac6a4a1ac",
+      "bytes": 2078206
+    },
+    {
+      "path": "media/picchina-play-poster-20261009.webp",
+      "sha256": "222575917a5069e47b0a97da0259250171f8d0e110328def960e639d877ca100",
+      "bytes": 29036
+    },
+    {
+      "path": "privacy/index.html",
+      "sha256": "dba9724d00a3ce48c3a489a99b33f7521e22b74ac6c46aeccc278f5a8ca990e1",
+      "bytes": 6113
+    },
+    {
+      "path": "product/app-01.webp",
+      "sha256": "b84132478b400cb6685486ba2b9db3e0de95d61ec0c826dc7925910efe8c6eaa",
+      "bytes": 33664
+    },
+    {
+      "path": "product/app-02.webp",
+      "sha256": "c8087aae86c85ec341710d8885570997781aef35b65eafd987687711434fdff0",
+      "bytes": 28826
+    },
+    {
+      "path": "product/app-03.webp",
+      "sha256": "c3dcb7d5188efe3f724d0bb41a2b9280a0470b4de89040169eeff5a43d66b5b9",
+      "bytes": 18260
+    },
+    {
+      "path": "product/app-04.webp",
+      "sha256": "3ac7641ee157779123eb2b64dbb284e3c42cc8de74a4dc883c28d4a97c8ec98d",
+      "bytes": 20292
+    },
+    {
+      "path": "product/app-05.webp",
+      "sha256": "4d7ddc764937a39df4923d2a9b67ed6012adafc8ac20adf36c100fa9711d0aba",
+      "bytes": 18366
+    },
+    {
+      "path": "product/capture-index.json",
+      "sha256": "f748e4ab3b4d84ca667b25daab51a126aec9bf8d76c0db1b7261f08eec4589e6",
+      "bytes": 437
+    },
+    {
+      "path": "pronunciation/index.html",
+      "sha256": "abd09290e20c23179eb937d6ecab34b8436e1f11fee55dd0a665fd09afcf88df",
+      "bytes": 5205
+    },
+    {
+      "path": "sample_worksheets/index.json",
+      "sha256": "005ca28fd91016695bad5b22982a196026fbe53810c26b32d0eb9273cefe3cd7",
+      "bytes": 3320
+    },
+    {
+      "path": "sample_worksheets/worksheet_01_greetings_01.png",
+      "sha256": "2d2bef69b06971334e70689c1372e0a526973d963ea056bda959739e3c32f133",
+      "bytes": 57959
+    },
+    {
+      "path": "sample_worksheets/worksheet_02_family_02.png",
+      "sha256": "ade4a464ced46644696d52d8bf7ef4c08290992def34f4e2fc9a7f6f11627182",
+      "bytes": 52208
+    },
+    {
+      "path": "sample_worksheets/worksheet_03_classroom_03.png",
+      "sha256": "0dad713d32a87c9e41b474747b07f43736908809878019b4245d709f32c39ff5",
+      "bytes": 49010
+    },
+    {
+      "path": "sample_worksheets/worksheet_04_verbs_04.png",
+      "sha256": "4ac5cebe5fe39b7155cfe0db5894a73632a53e63bd1176357cbf289d6872cb20",
+      "bytes": 44500
+    },
+    {
+      "path": "sample_worksheets/worksheet_05_time_05.png",
+      "sha256": "4e54049a8abdcafad421742e30556a11ce767927e56eb050946bd15f5edacd80",
+      "bytes": 46595
+    },
+    {
+      "path": "sample_worksheets/worksheet_06_countries_06.png",
+      "sha256": "4a40bddba2367e4fbcd1b13fa7bce215094dde7b0c2aa41fb79ec1140a4ed3c7",
+      "bytes": 40840
+    },
+    {
+      "path": "sample_worksheets/worksheet_07_polite_07.png",
+      "sha256": "50636108f81c0df21a3b02e7b1b4bb4ed60cbf43c1107b3d61366c747d2574aa",
+      "bytes": 57107
+    },
+    {
+      "path": "sample_worksheets/worksheet_08_review_08.png",
+      "sha256": "a4407c19d8f195bc5c0a7e537a236ee36a8f40f8bc4961284cd3b37a82f81ae7",
+      "bytes": 47647
+    },
+    {
+      "path": "sample_worksheets/worksheet_09_review_09.png",
+      "sha256": "9f006a326dd80d849342a60b46ac96dce3dfd17a35543068b6decf5fdcef0ce7",
+      "bytes": 41833
+    },
+    {
+      "path": "sample_worksheets/worksheet_10_dialogue_10.png",
+      "sha256": "e90d727887f9ae8dde4cf264e33ce98ae9cc75fb274c6a2ffbce70017abaaf15",
+      "bytes": 58541
+    },
+    {
+      "path": "sample_worksheets/worksheet_11_greetings_01.png",
+      "sha256": "0be4f5a1f418842769585d7d779f344c0364c5b9a88f705ea5fc5bf224f9dbbe",
+      "bytes": 64325
+    },
+    {
+      "path": "sample_worksheets/worksheet_12_family_02.png",
+      "sha256": "2e73d801c78ec23df0b2ccc31856fd519544ac42f758c4e5b39c1dc988d7f145",
+      "bytes": 64616
+    },
+    {
+      "path": "sample_worksheets/worksheet_13_classroom_03.png",
+      "sha256": "2ff8b0e28efe6109132ee67f93075fb25f9b29ad70a9f858a79dd816e22cd85b",
+      "bytes": 65291
+    },
+    {
+      "path": "sample_worksheets/worksheet_14_verbs_04.png",
+      "sha256": "413d2509a98ca6ce7f813b130114d9bb214b7cad0e346ca969f71fd7f299a715",
+      "bytes": 64380
+    },
+    {
+      "path": "sample_worksheets/worksheet_15_time_05.png",
+      "sha256": "a725e4ddc32a50135b960e0c6d944963f6dd3ac1998a777f8990effc6855674e",
+      "bytes": 64570
+    },
+    {
+      "path": "sample_worksheets/worksheet_16_countries_06.png",
+      "sha256": "92146aa80b230dcf28d73a8febb538986f1776243db5390a24ded5cd447cd46f",
+      "bytes": 65289
+    },
+    {
+      "path": "sample_worksheets/worksheet_17_polite_07.png",
+      "sha256": "2a320af62c4641cc1b7a200ca758d261c6243a152d2918bcb32bf485139df962",
+      "bytes": 64433
+    },
+    {
+      "path": "sample_worksheets/worksheet_18_review_08.png",
+      "sha256": "c70f46544403ac64de873966498897f9a40ca6ad6e7bc5b68ad33424fad8cecd",
+      "bytes": 64298
+    },
+    {
+      "path": "sample_worksheets/worksheet_19_review_09.png",
+      "sha256": "975287abbefc0bfcb3d215f2cd80533659d122257558663bcb2d4e7df1ee4ce1",
+      "bytes": 65195
+    },
+    {
+      "path": "sample_worksheets/worksheet_20_dialogue_10.png",
+      "sha256": "cb3cafa8a204240ec492c688628d456106a0287669c5c7f2933e150c20815963",
+      "bytes": 64578
+    },
+    {
+      "path": "sample_worksheets/worksheet_21_greetings_01.png",
+      "sha256": "49d9c99d9809bb2e60e8c98fe165bcdc9ff48bf048ea0d2c4a4e8a2a2d98f9bf",
+      "bytes": 64584
+    },
+    {
+      "path": "sample_worksheets/worksheet_22_family_02.png",
+      "sha256": "4085041a40529b74a52880a4658e2905ca67b4d04db8ad5812ac3a6742909e90",
+      "bytes": 65404
+    },
+    {
+      "path": "sample_worksheets/worksheet_23_classroom_03.png",
+      "sha256": "58a017a90ab46f8620bd4e05eddcdd5729ca30c1434676dd877fb44149aa586f",
+      "bytes": 64353
+    },
+    {
+      "path": "sample_worksheets/worksheet_24_verbs_04.png",
+      "sha256": "6a4bee98f53f5af65cc09e55996757dd70f6315d2604c96311446357208b2d5c",
+      "bytes": 64672
+    },
+    {
+      "path": "sample_worksheets/worksheet_25_time_05.png",
+      "sha256": "1c5f8749f6bd282888d36aa8939310ef94d3218305c115c0218c71e18ad938d5",
+      "bytes": 65456
+    },
+    {
+      "path": "sample_worksheets/worksheet_26_countries_06.png",
+      "sha256": "d765521790cb9066705e8fb44bbe4e58d88c68633ec13a60d2d7b3ed8492b57c",
+      "bytes": 64355
+    },
+    {
+      "path": "sample_worksheets/worksheet_27_polite_07.png",
+      "sha256": "a48447d6f535f32f433cb2e6cf695579e5b744ae8fec9d2ce23ad416ad22872f",
+      "bytes": 64686
+    },
+    {
+      "path": "sample_worksheets/worksheet_28_review_08.png",
+      "sha256": "df06679d222f4107da730a2edabf859d6f6cdda2b2fd0ca4c59c3cd17106c460",
+      "bytes": 65195
+    },
+    {
+      "path": "sample_worksheets/worksheet_29_review_09.png",
+      "sha256": "40db9f64f86e63cfd1d261d57d7914e7cc35ca0505d8250e2761d8c5bf45a840",
+      "bytes": 64161
+    },
+    {
+      "path": "sample_worksheets/worksheet_30_dialogue_10.png",
+      "sha256": "59ecae50fe2145607426fb94ee7f6baefa3ea2d8de6cf80838b4b9f3d4e854eb",
+      "bytes": 64761
+    },
+    {
+      "path": "school-chinese-review/index.html",
+      "sha256": "96574482a1ae9310ef7fd5e21341b3cc920c5d97c66e5f9f0b80b8d8e3041cb5",
+      "bytes": 4520
+    },
+    {
+      "path": "support/index.html",
+      "sha256": "df3606640eda0966e5a1c1b450b047e2755f6a00716b89cf5edac74891c65653",
+      "bytes": 6538
+    },
+    {
+      "path": "teacher/index.html",
+      "sha256": "4f5c2bea52877a722b78df11fd5630306f22b5caa4ca4da04e71d3718fda4d43",
+      "bytes": 6172
+    },
+    {
+      "path": "terms/index.html",
+      "sha256": "438da772ac5648d4660450227dae8d6b4f87c5627e241bc0a7a8c33dbf13f43b",
+      "bytes": 3108
+    },
+    {
+      "path": "worksheet-ocr/index.html",
+      "sha256": "451ab008b56fdf235ed14e301542119c2ee256837e93459e2d6f2c602d1a08fb",
+      "bytes": 6037
+    },
+    {
+      "path": "worksheets/index.html",
+      "sha256": "d02f522d807e967b271d4cc4b5865b607eb6e259b8a5b118f97b2794b66de6ea",
+      "bytes": 4446
+    }
+  ]
 }

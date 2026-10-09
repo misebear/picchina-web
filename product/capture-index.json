@@ -1,0 +1,27 @@
+{
+  "01": {
+    "path": "product/app-01.webp",
+    "width": 720,
+    "height": 1460
+  },
+  "02": {
+    "path": "product/app-02.webp",
+    "width": 720,
+    "height": 1460
+  },
+  "03": {
+    "path": "product/app-03.webp",
+    "width": 720,
+    "height": 1270
+  },
+  "04": {
+    "path": "product/app-04.webp",
+    "width": 720,
+    "height": 1270
+  },
+  "05": {
+    "path": "product/app-05.webp",
+    "width": 720,
+    "height": 1270
+  }
+}
